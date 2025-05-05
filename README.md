@@ -11,7 +11,7 @@ as it can affect the profit ans sales margin and also can drive decisions and in
 
 
 
-
+PERFORMING EDA(Exploratory Data Analysis)
 
 
 df.describe() will let us know about the numeric values for mean,median,maximum and standard deviation.
