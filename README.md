@@ -30,3 +30,36 @@ here the qty is close to one means there is not much variation, if we see the am
 
 Max tells us that one of the largest order is around Rs.5584, it may be in bulk.
 
+
+Here are some business questions we can now figure out:-
+
+1.Which caategory brings the highest Revenue?
+---->T-shirt category brings the highest revenue.
+
+2.What is top selling product by quantity?
+-----> T-shirt is the top selling product by quantity of more than 40,000
+
+3.Which is the lowest selling product by quantity and category?
+-----> Watch is the lowest selling product by category and quantity.
+
+4.Give the percentage of fulfillment type distribution by others and Easy Ship?
+------> It's around 30% by Easy Ship and 70% by others.
+
+5.Arrange top 10 category by sales in Descending Order? -------> T-shirt > Shirt > Blazzer > Trousers > Perfume > Wallet > Socks > Shoes > Watch .
+
+6.Give the name for top 2 states by sales?
+
+-----> Maharashtra and Karnataka are top 2 states by sales .
+
+7.Give the name for the 2 states with the least sales?
+-----> Andhra Pradesh and Haryana are the states ith the lowest sales.
+
+8. Among B2B and B2C which has the most toal sales and what could be the reason?
+-----> B2B has a total sales around Rs.77,979,068 with B2C having total sales of around Rs. 591,480.
+   the reason could be because customers are making small purchases but it is making the sales high , instead of purchasing in bulk.
+   1.Amazon is primarily a B2C platform
+   2.B2C customers make frequent small purchases.
+   3.B2B buyers often purchase through procurement platforms, not retail channels.
+   4.B2B purchases are usually bulk but less frequent, so total volume may look smaller depending on the time frame.
+   5.B2B buyers may prefer dedicated wholesale platforms or direct vendor relationships
+
