@@ -57,6 +57,7 @@ Here are some business questions we can now figure out:-
 8. Among B2B and B2C which has the most toal sales and what could be the reason?
 -----> B2B has a total sales around Rs.77,979,068 with B2C having total sales of around Rs. 591,480.
    the reason could be because customers are making small purchases but it is making the sales high , instead of purchasing in bulk.
+
    1.Amazon is primarily a B2C platform
    
    2.B2C customers make frequent small purchases.
