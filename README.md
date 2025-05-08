@@ -58,8 +58,12 @@ Here are some business questions we can now figure out:-
 -----> B2B has a total sales around Rs.77,979,068 with B2C having total sales of around Rs. 591,480.
    the reason could be because customers are making small purchases but it is making the sales high , instead of purchasing in bulk.
    1.Amazon is primarily a B2C platform
+   
    2.B2C customers make frequent small purchases.
+   
    3.B2B buyers often purchase through procurement platforms, not retail channels.
+   
    4.B2B purchases are usually bulk but less frequent, so total volume may look smaller depending on the time frame.
+   
    5.B2B buyers may prefer dedicated wholesale platforms or direct vendor relationships
 
