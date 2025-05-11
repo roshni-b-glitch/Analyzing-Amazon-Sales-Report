@@ -66,5 +66,5 @@ Here are some business questions we can now figure out:-
    
    4.B2B purchases are usually bulk but less frequent, so total volume may look smaller depending on the time frame.
    
-   5.B2B buyers may prefer dedicated wholesale platforms or direct vendor relationships
+   5.B2B buyers may prefer dedicated wholesale platforms or direct vendor relationships.
 
