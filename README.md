@@ -68,3 +68,27 @@ Here are some business questions we can now figure out:-
    
    5.B2B buyers may prefer dedicated wholesale platforms or direct vendor relationships.
 
+
+
+
+   Recommendations:-
+   1.  Geographic Focus on High Revenue States
+Maharashtra and Karnataka are top-performing states.
+Recommendation: Target ads and faster delivery in these states for better ROI.
+
+2.  6. Customer Segment TargetingExpand Fulfillment via Easy Ship
+Only 30% of orders are fulfilled by Easy Ship.
+Recommendation: Leverage Amazon Easy Ship more to ensure timely deliveries and better customer experience.
+
+
+3.  B2B customers contribute significantly to sales.
+ Recommendation: Offer special deals or subscriptions for B2B clients.
+
+4.   T-shirts have the highest sales volume and revenue.
+Recommendation: Increase inventory and run promotions for T-shirts and other top-selling categories.
+
+
+5. Discontinue or Discount Low-Selling Items
+Watches are the lowest selling category.
+Recommendation: Consider discontinuing or offering heavy discounts on watches to clear inventory.
+
